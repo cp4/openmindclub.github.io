@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: 开智欢迎您
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+## # 开智对话
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+>To arrive at the edge of the world's knowledge, seek out the most complex and sophisticated minds, put them in a room together, and have them ask each other the questions they are asking themselves.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+*********
+
+
+>最聪慧的心智，亦有苦思不得其解之惑，置其于一室，促其彼此发问，乃达至知识巅峰之道。
