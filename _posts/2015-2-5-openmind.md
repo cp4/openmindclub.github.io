@@ -1,9 +1,7 @@
 ---
 layout: post
-title: 开智欢迎您
+title: 开智对话
 ---
-
-## 开智对话
 
 >To arrive at the edge of the world's knowledge, seek out the most complex and sophisticated minds, put them in a room together, and have them ask each other the questions they are asking themselves.
 
