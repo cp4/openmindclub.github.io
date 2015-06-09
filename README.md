@@ -1,3 +1,14 @@
+# OpenMind.club
+
+~ 开智社群 官方 blogging
+
+- 发布社群新闻
+- 分享社群内容
+- 公告社群成果
+- 汇集社群资源
+
+
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
